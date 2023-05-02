@@ -25,7 +25,7 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-**Hello Microverse** is a...
+**Hello Microverse** is a website that displayin text wrinten in html with css styling 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,21 +47,6 @@
 - **[displaying colored text message]**
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- coming soon..
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
